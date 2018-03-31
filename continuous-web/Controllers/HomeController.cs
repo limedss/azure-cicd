@@ -17,7 +17,7 @@ namespace continuous_web.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "My first deployment on Azure Continuous Deployment.";
 
             return View();
         }
