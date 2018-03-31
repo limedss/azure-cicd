@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using continuous_web.Controllers;
+using continuousweb.Controllers;
 
-namespace ContinuousWeb.Tests
+namespace continuousweb.Tests
 {
     [TestClass]
     public class HomeControllerTests
