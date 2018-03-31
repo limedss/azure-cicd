@@ -13,10 +13,4 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="continuous-web">
-      <HintPath>..\continuous-web\bin\Debug\netcoreapp2.0\continuous-web.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using continuous_web.Models;
+using continuousweb.Models;
 
-namespace continuous_web.Controllers
+namespace continuousweb.Controllers
 {
     public class HomeController : Controller
     {
